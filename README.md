@@ -6,11 +6,12 @@ https://user-images.githubusercontent.com/82106636/208191288-5fd3e8aa-cfd7-4cff-
 
 
 game results:
+Displays the winner or a draw. For example...
 
-<img width="147" alt="Screen Shot 2022-12-16 at 4 10 05 PM" src="https://user-images.githubusercontent.com/82106636/208191610-13855725-4024-41c3-808c-af40eff8232d.png">
+https://user-images.githubusercontent.com/82106636/208192699-9e7eabee-054b-4778-804b-379b7f9487c5.mov
 
 
-
-game setup (if you want to change the board setup): 
+game setup:
+Insert new positions of "entities" if you wish to change the default board.
 
 <img width="1021" alt="Screen Shot 2022-12-16 at 4 13 01 PM" src="https://user-images.githubusercontent.com/82106636/208191603-8f3edc9b-218c-4f42-a084-d61e6e537890.png">
